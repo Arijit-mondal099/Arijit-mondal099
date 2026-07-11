@@ -1,8 +1,6 @@
 # Hi I'M ARIJIT
 
-full-stack developer (MERN) based in kolkata, india. building AI-powered web apps, open to remote roles.
-
-i like shipping working things over polishing ideas that never leave the doc.
+Full-stack engineer building AI-powered systems RAG, LLM integrations, Agent-based systems, and scalable backends.
 
 #### CONTACT --------------------------------------------
 
@@ -16,9 +14,10 @@ PORTFOLIO:  <a href="https://arijitmondal.vercel.app">arijitmondal.app</a>
 #### TECH STACK -----------------------------------------
 
 <pre>
-FRONTEND:   React,  Next.js,  Tailwind CSS,  Shadcn/UI,  TypeScript,  Zustand
-BACKEND:    Node.js,  Express,  TypeScript,  NestJS,  Prisma,  Drizzle
-DATABASES:  MongoDB,  PostgreSQL,  Redis
+FRONTEND:   React,  Next.js,  Tailwind CSS,  Shadcn/UI,  TypeScript,  Redux,  Zustand,  React Query
+BACKEND:    Node.js,  Express.js,  TypeScript,  NestJS,  Prisma,  Drizzle
+DATABASES:  MongoDB,  PostgreSQL,  Redis, Vector DB (Pinecone)
+AI/DATA:    RAG, Embeddings, LLM Integration, Agents, LangChain
 DEVOPS:     Docker,  AWS,  GitHub Actions,  Vercel,  Railway,  Render
 </pre>
 
