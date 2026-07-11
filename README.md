@@ -26,8 +26,8 @@ DEVOPS:     Docker,  AWS,  GitHub Actions,  Vercel,  Railway,  Render
 
 <pre>
 <strong>Full-Stack Developer Intern</strong> · IPage Group · Sept 2025 – Feb 2026
-  ➜ Built production-ready MERN applications using AWS Lambda, API Gateway, and DynamoDB.
-  ➜ Developed REST APIs, authentication flows, interactive dashboards, and scalable serverless workflows.
+➜ Built production-ready MERN applications using AWS Lambda, API Gateway, and DynamoDB.
+➜ Developed REST APIs, authentication flows, interactive dashboards, and scalable serverless workflows.
 </pre>
 
 #### PROJECTS -------------------------------------------
