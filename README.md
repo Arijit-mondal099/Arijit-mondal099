@@ -29,7 +29,7 @@ DEVOPS:     Docker,  AWS,  GitHub Actions,  Vercel,  Railway,  Render
 ➜ Developed REST APIs, authentication flows, interactive dashboards, and scalable serverless workflows.
 </pre>
 
-#### PROJECTS -------------------------------------------
+<!-- #### PROJECTS -------------------------------------------
 
 <pre>
 <strong>SupportAI</strong>
@@ -40,7 +40,7 @@ DEVOPS:     Docker,  AWS,  GitHub Actions,  Vercel,  Railway,  Render
 <strong>Docsy</strong>
 ➜ Description: AI-powered PDF chat application with RAG-based document retrieval for accurate, context-aware answers.
 ➜ Link: <a href="https://github.com/Arijit-mondal099/docsy">github.com/Arijit-mondal099/docsy</a>
-</pre>
+</pre> -->
 
 #### WHAT I CARE ABOUT ------------------------------
 
